@@ -3,7 +3,7 @@ import Particles from './Particles'
 
 const links = [
   { label: 'Sitio web', url: 'https://digisolve.app', icon: '🌐' },
-  { label: 'WhatsApp', url: 'https://wa.me/524775769503', icon: '💬' },
+  { label: 'WhatsApp', url: 'https://wa.me/524773145975', icon: '💬' },
   { label: 'Correo', url: 'mailto:digisolve.app@outlook.com', icon: '📧' },
   { label: 'Servicios', url: 'https://digisolve.app/#servicios', icon: '🔧' },
   { label: 'Precios', url: 'https://digisolve.app/#precios', icon: '💰' },
