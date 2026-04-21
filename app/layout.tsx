@@ -1,10 +1,5 @@
 import "./globals.css"
 
-export const metadata = {
-  title: "DigiSolve | Soluciones Digitales",
-  description: "Arquitectura digital y soluciones de alto impacto",
-}
-
 export default function RootLayout({
   children,
 }: {
